@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0288D1</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorToolbar">#90FFFFFF</color>
+
+    <color name="indicator_color">#FF4081</color>
+    <color name="secondary_text">#FF4081</color>
+
+    <color name="off_color">#F44336</color>
+    <color name="on_color">#4CAF50</color>
+
+</resources>
+

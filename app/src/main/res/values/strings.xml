@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Automata</string>
+    <string name="login_button">Login</string>
+    <string name="forgot_password">Forgot your Password?</string>
+    <string name="loading_text">Loading</string>
+    <string name="no_internet_connection">Internet not available, Cross check your internet
+        connectivity and try again
+    </string>
+    <string name="exit.alert.title">Alert</string>
+    <string name="exit.alert.title.message">Press Again to Close Automata</string>
+    <string name="exit.alert.button.text">OK</string>
+    <string name="click_to_see_live_streaming">Click to See Live Streaming</string>
+    <string name="drawer.open">close drawer</string>
+    <string name="drawer.close">open drawer</string>
+</resources>
